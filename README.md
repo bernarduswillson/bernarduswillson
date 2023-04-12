@@ -1,13 +1,33 @@
 # 😁 Welcome to bewe's Repo
 
-I'm an undergraduate Computer Science student from School of Electrical Engineering and Informatics Bandung Institute of Technology. I'm currently on my 3rd semester and interested in all things related to computers such as web development.
+I'm an undergraduate Computer Science student from School of Electrical Engineering and Informatics Bandung Institute of Technology. I'm currently on my 4th semester and interested in all things related to computers such as web development.
+
+<h1>📈 Stats</h1>
+<div align="center">
+    <a href = "https://github.com/bernarduswillson/">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bernarduswillson&theme=dracula" />
+        <p align="center">
+        <div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=bernarduswillson&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits, Repo, PullRequest">
+        </div>
+        <img src="https://github-readme-stats.vercel.app/api?username=bernarduswillson&hide=issues&count_private=true&show_icons=true&theme=dracula" height=164/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernarduswillson&layout=compact&theme=dracula"/>
+    </a>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 💻 My Tech Stack
 
 ### Programming Language
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
  ![Prolog](https://img.shields.io/badge/Prolog-FF0000?style=for-the-badge&logo=prolof&logoColor=white)
 
@@ -19,12 +39,18 @@ I'm an undergraduate Computer Science student from School of Electrical Engineer
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
+
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+
 
 ### Extras
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## ✨ Find me on social media:
