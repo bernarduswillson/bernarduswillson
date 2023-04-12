@@ -8,7 +8,7 @@ I'm an undergraduate Computer Science student from School of Electrical Engineer
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bernarduswillson&theme=dracula" />
         <p align="center">
         <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=bernarduswillson&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits, Repo, PullRequest">
+        <img src="https://github-profile-trophy.vercel.app/?username=bernarduswillson&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Repo,PullRequest">
         </div>
         <img src="https://github-readme-stats.vercel.app/api?username=bernarduswillson&hide=issues&count_private=true&show_icons=true&theme=dracula" height=164/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernarduswillson&layout=compact&theme=dracula"/>
