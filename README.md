@@ -1,6 +1,6 @@
 # 😁 Welcome to bewe's Repo
 
-I'm an undergraduate Computer Science student from School of Electrical Engineering and Informatics Bandung Institute of Technology. I'm currently on my 4th semester and interested in all things related to computers such as web development.
+I’m an undergraduate Computer Science student from the School of Electrical Engineering and Informatics at Bandung Institute of Technology. I’m currently in my 5th semester and interested in computer-related things such as web development, software development, and data. I consistently seek opportunities to develop my soft and hard skills through volunteers, committees, and projects.
 
 <h1>📈 Stats</h1>
 
