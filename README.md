@@ -3,9 +3,11 @@
 I'm an undergraduate Computer Science student from School of Electrical Engineering and Informatics Bandung Institute of Technology. I'm currently on my 4th semester and interested in all things related to computers such as web development.
 
 <h1>📈 Stats</h1>
+
+[![bewe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bernarduswillson&theme=dracula)](https://github.com/bernarduswillson/github-readme-activity-graph)
+
 <div align="center">
     <a href = "https://github.com/bernarduswillson/">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bernarduswillson&theme=dracula" />
         <p align="center">
         <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=bernarduswillson&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Repo,PullRequest">
